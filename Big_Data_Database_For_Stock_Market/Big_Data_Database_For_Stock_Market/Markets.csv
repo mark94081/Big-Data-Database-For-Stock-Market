@@ -1,0 +1,11 @@
+﻿MarketID,MarketName,TimeZone,Country,CurrencyCode
+HK,Hong Kong Stock Exchange,HKT,China,HKD
+IN,National Stock Exchange,IST,India,INR
+N,New York Stock Exchange,EST,United States,USD
+O,NASDAQ Stock Exchange,EST,United States,USD
+OTCM,OTC Markets Group Inc,EST,United States,USD
+SG,Singapore Exchange,SST,Singapore,SGD
+SH,Shanghai Stock Exchange,CST,China,CNY
+SZ,Shenzhen Stock Exchange,CST,China,CNY
+T,Toronto Stock Exchange,EST,Canada,CAD
+TO,Tokyo Stock Exchange,JST,Japan,JPY
