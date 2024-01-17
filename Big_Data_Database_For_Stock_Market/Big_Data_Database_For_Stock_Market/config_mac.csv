@@ -1,6 +1,0 @@
-daily_url_common:https://eodhistoricaldata.com/api/eod/
-intraday_url_common:https://eodhistoricaldata.com/api/intraday/
-start_date:2023-09-01
-end_date:2023-09-30
-api_token:644946d7f007b9.35396586
-symbol:MSFT,IBM,GOOGL
